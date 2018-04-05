@@ -37,3 +37,6 @@ https://github.com/Azure/logicapps/blob/master/articles/enterprise-integration-e
 
 Microsoft IT: An integration journey to Azure Logic Apps
 https://github.com/Azure/logicapps/blob/master/articles/microsoft-integration-with-azure-logic-apps.pdf
+
+Azure IoT Suite
+azureiotsuite.com/
