@@ -1,0 +1,2 @@
+# AzurePartnerBootcamp
+Technical Workshop
