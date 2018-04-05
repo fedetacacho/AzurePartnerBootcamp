@@ -1,9 +1,17 @@
-# AzurePartnerBootcamp
+#AzurePartnerBootcamp
 Technical Workshop<br>
 Federico Tacacho - Partner Technology Strategist<br>
 t-fetaca@microsoft.com<br>
 Microsoft Argentina<br>
 
+Azure Calculadora de precios
+https://azure.microsoft.com/es-es/pricing/calculator/
+
+Documentación Azure
+https://docs.microsoft.com/es-es/azure/index
+
+Aprendizaje para ganar experiencia en Azure
+https://azure.microsoft.com/es-es/training/
 
 Decisión sobre cuándo usar Azure Blobs, Azure Files o Azure Disks
 https://docs.microsoft.com/es-es/azure/storage/common/storage-decide-blobs-files-disks
@@ -25,12 +33,6 @@ https://docs.microsoft.com/es-es/azure/storage/blobs/storage-blob-storage-tiers
 
 Información general del Administrador de recursos de Azure
 https://docs.microsoft.com/es-es/azure/azure-resource-manager/resource-group-overview
-
-Documentación Azure
-https://docs.microsoft.com/es-es/azure/index
-
-Aprendizaje para ganar experiencia en Azure
-https://azure.microsoft.com/es-es/training/
 
 Serverless Lab: Build a Social Dashboard
 https://github.com/Azure/logicapps/tree/master/labs/twitter-to-powerbi
