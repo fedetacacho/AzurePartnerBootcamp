@@ -1,5 +1,8 @@
 # AzurePartnerBootcamp
-Technical Workshop
+Technical Workshop<br>
+Federico Tacacho - Partner Technology Strategist<br>
+t-fetaca@microsoft.com<br>
+Microsoft Argentina<br>
 
 
 Decisión sobre cuándo usar Azure Blobs, Azure Files o Azure Disks
