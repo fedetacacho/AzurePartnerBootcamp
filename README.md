@@ -23,7 +23,7 @@ Azure Github Official
 https://github.com/azure
 
 Azure Quickstart templates
-https://github.com/Azure/azure-quickstart-templateshttps://github.com/Azure/azure-quickstart-templates
+https://github.com/Azure/azure-quickstart-templates
 
 Very simple deployment of a Linux VM
 https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-linux
